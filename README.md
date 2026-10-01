@@ -17,7 +17,7 @@ The program takes device details such as:
 
 and displays the entered information in a structured format.
 
-## 🛠️ Concepts Used
+## Concepts Used
 
 This project demonstrates the following C programming concepts:
 
@@ -30,7 +30,7 @@ This project demonstrates the following C programming concepts:
 * Floating-point values
 * Basic Embedded Systems data representation
 
-## ⚙️ How the Program Works
+## How the Program Works
 
 1. The program starts and displays the project title.
 2. The user enters the device ID.
